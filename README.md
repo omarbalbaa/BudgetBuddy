@@ -4,8 +4,6 @@ A responsive full-stack personal expense tracking application to help you manage
 
 ![BudgetBuddy Dashboard](imgs/dashboard-image.PNG)
 
-![Expenses Table in the db](imgs/db.PNG)
-
 ## Features
 
 - User authentication (login/register)
