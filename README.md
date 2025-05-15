@@ -1,8 +1,10 @@
 # BudgetBuddy
 
-A responsive personal expense tracking application to help you manage your finances.
+A responsive full-stack personal expense tracking application to help you manage your finances.
 
 ![BudgetBuddy Dashboard](imgs/dashboard-image.PNG)
+
+![Expenses Table in the db](imgs/db.PNG)
 
 ## Features
 
