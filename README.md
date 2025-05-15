@@ -2,12 +2,12 @@
 
 A responsive personal expense tracking application to help you manage your finances.
 
-![BudgetBuddy Dashboard](imgs/dashboard-image.png)
+![BudgetBuddy Dashboard](imgs/dashboard-image.PNG)
 
 ## Features
 
 - User authentication (login/register)
-- Add and track expenses
+- Add, Edit and track expenses
 - Filter expenses by category and date range
 - Monthly expense reports
 - Responsive design for mobile and desktop
