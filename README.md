@@ -25,7 +25,7 @@ A responsive personal expense tracking application to help you manage your finan
 ### Register Page
 ![Register Page](imgs/register-image.png)
 
-### Dashboard
+### Expense Form
 ![Dashboard with Expense Form](imgs/expense-form-image.png)
 
 ## Technologies Used
