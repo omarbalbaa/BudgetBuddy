@@ -12,10 +12,6 @@ A responsive full-stack personal expense tracking application to help you manage
 - Monthly expense reports
 - Responsive design for mobile and desktop
 
-## Total hours spent
-
-11 hours
-
 
 ## Screenshots
 
@@ -67,3 +63,4 @@ npm run dev
 cd budgetbuddy-api
 node app.js
 ```
+
