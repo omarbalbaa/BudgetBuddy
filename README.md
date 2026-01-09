@@ -15,9 +15,6 @@ A responsive full-stack personal expense tracking application to help you manage
 
 ## Screenshots
 
-### Login Page
-![Login Page](imgs/login-image.png)
-
 ### Register Page
 ![Register Page](imgs/register-image.png)
 
@@ -63,4 +60,5 @@ npm run dev
 cd budgetbuddy-api
 node app.js
 ```
+
 
